@@ -1,0 +1,27 @@
+{
+    "name": "DGP.UnitySignals.Lookout.Editor",
+    "rootNamespace": "DGP.UnitySignals.Lookout",
+    "references": [
+        "VoidCat.Lookout.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "LOOKOUT_EXT_UNITYSIGNALS",
+        "!LOOKOUT_DISABLED"
+    ],
+    "versionDefines": [
+        {
+            "name": "unitysignals",
+            "expression": "",
+            "define": "LOOKOUT_EXT_UNITYSIGNALS"
+        }
+    ],
+    "noEngineReferences": false
+}

@@ -194,3 +194,8 @@ health.Dispose();
 - `ReferenceSignal<T>` - For any reference type
 - `ComputedSignal<T>` - For derived values
 
+## Lookout
+
+To see this package's events in Lookout (VoidCat Studios' event-graph tool for Unity), follow
+[Documentation~/Lookout.md](Documentation~/Lookout.md). It covers the settings, live pulses and what Lookout can't see
+yet; the files it uses are in `Documentation~/Lookout/`.
